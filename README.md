@@ -27,7 +27,7 @@ This project is a simple Coffee Machine Simulator built using Java and JavaFX. I
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/coffeemachine.git
+    git clone https://github.com/mossstak/coffee-machine-simulator.
     cd coffeemachine
     ```
 
